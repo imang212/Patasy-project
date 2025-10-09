@@ -187,15 +187,15 @@ https://cs.wikipedia.org/wiki/Visual_Studio_Code
 
 ## Seznam obrázků
 
-**Ukázka ze hry**
+**Ukázka ze hry**\
 <img width="702" height="396" alt="jcWseAAAABklEQVQDABSK4v6z9nuFAAAAAElFTkSuQmCC" src="https://github.com/user-attachments/assets/50a9efaf-f081-41e7-97f1-2fc2851f87b5" />
 
-**Ukládání hry**
+**Ukládání hry**\
 <img width="759" height="429" alt="FYvGYwAAAAZJREFUAwBI+M5ZFNsqRAAAAABJRU5ErkJggg==" src="https://github.com/user-attachments/assets/d5c9e9b5-040e-4f2b-8f9e-7450d43b436b" />
 
-**Game over**
+**Game over**\
 <img width="735" height="411" alt="LBPEjAAAABklEQVQDACAiXAA7l0SGAAAAAElFTkSuQmCC" src="https://github.com/user-attachments/assets/bbb9fb06-0450-470f-bddc-e698dc1091c8" />
 
-**Souboj s bosem**
+**Souboj s bosem**\
 <img width="687" height="385" alt="8OZQujAAAABklEQVQDAFg9ehErCItuAAAAAElFTkSuQmCC" src="https://github.com/user-attachments/assets/3639ecc6-0778-4643-8f8a-e21f5c7c9152" />
 
