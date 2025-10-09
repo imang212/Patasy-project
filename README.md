@@ -23,7 +23,6 @@ gameplay, krajina, survival, útok, život, boj, příroda, lesy, jezera, nepř�
 - Závěr
 - Použitá literatura
 - Seznam obrázků
-- Obsah média
 
 
 ## Úvod
